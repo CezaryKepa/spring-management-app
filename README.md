@@ -1,2 +1,2 @@
 # spring-management-app
-Prosta aplikacja webowa do zarządzania wyposażeniem firmy. Pozwala zarządzać 				pracownikami i sprzętem w firmie. Wykorzystane technologie:Java, Spring Boot w 				szczególności: Spring Security, Spring Data JPA; REST API, AngularJS, 					Bootstrap,H2.
+Basic web app to manage company equipment. It allows you to manage employees and assets in your company. Used technologies: Java, Spring Boot(Spring Security, Spring Data JPA, Spring MVC), REST API, AngularJS, Bootstrap, H2.
